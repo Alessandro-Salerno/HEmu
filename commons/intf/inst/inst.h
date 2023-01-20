@@ -37,7 +37,6 @@ typedef enum {
 } hemu_inst_t;
 
 #define HEMU_INST_NUM (uint16_t) HEMU_INST_END
-#define HEMU_INST_MAX_OPS 3
 
 int hemu_inst_info(hemu_inst_t __opcode, hemu_inst_info_t *__info);
 

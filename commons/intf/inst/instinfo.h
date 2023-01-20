@@ -8,7 +8,7 @@
 typedef struct HEmuInstructionInformation {
     uint16_t size;
     uint16_t operands;
-    uint16_t opsizes[HEMU_INST_MAX_OPS];
+    uint16_t opsizes[3];
 } hemu_inst_info_t;
 
 #endif // COMMON_INSTINFO_H

@@ -24,7 +24,7 @@ static const hemu_inst_info_t INSTRUCTIONS[HEMU_INST_NUM] = {
     { .operands = 2,      .opsizes = { 1, 1, 0 } },
     { .operands = 2,      .opsizes = { 1, 2, 0 } },
     { .operands = 1,      .opsizes = { 2, 0, 0 } },
-    { .operands = 1,      .opsizes = { 2, 0, 0 } }
+    { .operands = 1,      .opsizes = { 2, 0, 0 } },
     { .operands = 1,      .opsizes = { 2, 0, 0 } },
     { .operands = 1,      .opsizes = { 2, 0, 0 } },
     { .operands = 1,      .opsizes = { 2, 0, 0 } },
