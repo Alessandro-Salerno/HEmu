@@ -1,4 +1,4 @@
-#ifndef HEXCC_H
+#ifndef HEXC_H
 #define HEXC_H
 
 #include <stdio.h>

@@ -2,7 +2,7 @@
 #define COMMON_INST_H
 
 #include <stdint.h>
-#include <inst/instinfo.h>
+#include <instinfo.h>
 
 
 typedef enum {

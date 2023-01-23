@@ -2,7 +2,7 @@
 #define COMMON_INSTINFO_H
 
 #include <stdint.h>
-#include <inst/inst.h>
+#include <inst.h>
 
 
 typedef struct HEmuInstructionInformation {

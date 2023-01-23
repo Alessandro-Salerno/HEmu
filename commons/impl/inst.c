@@ -1,5 +1,5 @@
-#include <inst/inst.h>
-#include <inst/instinfo.h>
+#include <inst.h>
+#include <instinfo.h>
 #include <stdint.h>
 
 static const hemu_inst_info_t INSTRUCTIONS[HEMU_INST_NUM] = {
