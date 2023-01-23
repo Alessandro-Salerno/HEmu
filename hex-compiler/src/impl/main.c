@@ -17,7 +17,7 @@ int main(int argc, char const *argv[]) {
     
     FILE *_output_file = fopen(argv[2], "w");
 
-    if (hexc(_file_to_compile, _output_file) == -1) {
+    if (hexc(_file_to_compile, _output_file) != 0) {
         printf("\nhexc: compilation aborted");
         return -1;
     }
