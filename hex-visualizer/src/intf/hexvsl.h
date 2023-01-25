@@ -6,5 +6,4 @@
 
 int hexvsl(FILE *__file);
 
-
 #endif // HEXVSL_H
